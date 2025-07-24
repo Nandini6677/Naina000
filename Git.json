@@ -1,0 +1,22 @@
+[
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/Nandini6677/Naina000/main/leads-100.csv",
+    "p_sink_folder": "Demo_leads",
+    "p_sink_file": "leads-100.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/Nandini6677/Naina000/main/organizations-100.csv",
+    "p_sink_folder": "Demo_organizations",
+    "p_sink_file": "organizations-100.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/Nandini6677/Naina000/main/people-100.csv",
+    "p_sink_folder": "Demo_people",
+    "p_sink_file": "people-100.csv"
+  },
+  {
+    "p_rel_url": "https://raw.githubusercontent.com/Nandini6677/Naina000/main/products-100.csv",
+    "p_sink_folder": "Demo_products",
+    "p_sink_file": "products-100.csv"
+  }
+]
